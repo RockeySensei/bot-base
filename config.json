@@ -1,0 +1,5 @@
+{
+  "token": "COLOCAR TOKEN",
+  "mongopass": "URL MONGODB",  
+  "prefix": "."
+}
