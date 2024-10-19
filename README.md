@@ -1,17 +1,5 @@
- <!-- 
 
- /$$    /$$ /$$      /$$  /$$$$$$  /$$$$$$$$ /$$$$$$  /$$$$$$$  /$$$$$$$$
-| $$   | $$| $$$    /$$$ /$$__  $$|__  $$__//$$__  $$| $$__  $$| $$_____/
-| $$   | $$| $$$$  /$$$$| $$  \__/   | $$  | $$  \ $$| $$  \ $$| $$      
-|  $$ / $$/| $$ $$/$$ $$|  $$$$$$    | $$  | $$  | $$| $$$$$$$/| $$$$$   
- \  $$ $$/ | $$  $$$| $$ \____  $$   | $$  | $$  | $$| $$__  $$| $$__/   
-  \  $$$/  | $$\  $ | $$ /$$  \ $$   | $$  | $$  | $$| $$  \ $$| $$      
-   \  $/   | $$ \/  | $$|  $$$$$$/   | $$  |  $$$$$$/| $$  | $$| $$$$$$$$
-    \_/    |__/     |__/ \______/    |__/   \______/ |__/  |__/|________/
-
--- BOT V2
-
-El bot fue hecho por PolloGang. y a la vez VMStore le hizo mejoras en su totalidad.. Este bot está diseñado para proporcionar diversas funcionalidades y mejorar la experiencia de los usuarios en los servidores de Discord.
+Este bot está diseñado para proporcionar diversas funcionalidades y mejorar la experiencia de los usuarios en los servidores de Discord.
 
 Descripción
 
